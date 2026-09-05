@@ -118,3 +118,5 @@ class Main {
 }
 
 Main.main()
+
+export {}
