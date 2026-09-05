@@ -13,7 +13,7 @@
   "description": "**10 Exercícios — Da Calculadora ao Sistema Completo de Loja**",
   "main": "index.js",
   "scripts": {
-    "dev": "tsx watch ./src/calculadora.ts"
+    "dev": "tsx ./src/calculadora.ts"
   },
   "repository": {
     "type": "git",
